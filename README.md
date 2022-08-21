@@ -3,7 +3,7 @@ Image restoration by patch-based inpainting.
 
 ## Overview
 
-The purpose of this program is to restore images with missing/damaged pieces. The algorithm will try to find in the vicinity of the damaged area the most suitable pixel groups to restore the image. The general principle can be summarized by the following image:
+The purpose of this program is to restore images with missing/damaged pieces. The algorithm will try to find in the neighborhood of the damaged area the most suitable pixel groups to restore the image. The general principle can be summarized by the following image:
 
 <p align="center">
   <img src="overview.jpg" />
