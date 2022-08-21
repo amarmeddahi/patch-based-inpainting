@@ -1,3 +1,3 @@
-# patching-inpainting
-Image restoration by patch inpainting.
+# Patch-based Image inpainting
+Image restoration by patch-based inpainting.
 
