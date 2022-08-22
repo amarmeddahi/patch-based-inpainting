@@ -16,4 +16,4 @@ Main contact: Amar Meddahi (amar.meddahi1@gmail.com)
 1. Download src/
 2. Put the damaged image in the folder src/
 3. Edit the image path in the main.m file
-4. Execute main.m
+4. Run main.m
