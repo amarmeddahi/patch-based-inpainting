@@ -3,10 +3,10 @@ Image restoration by patch-based inpainting.
 
 ## Overview
 
-The purpose of this program is to restore images with missing/damaged pieces. The general principle can be summarized by the following image:
+The purpose of this program is to restore images with missing/damaged areas.
 
 <p align="center">
-  <img src="overview.jpg" />
+  <img src="inpainting.gif" />
 </p>
 
 Main contact: Amar Meddahi (amar.meddahi1@gmail.com)
