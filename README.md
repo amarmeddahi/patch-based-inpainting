@@ -2,7 +2,7 @@
 Image restoration by patch-based inpainting. The purpose of this program is to restore image with missing/damaged areas.
 
 <p align="center">
-  <img src="inpainting.gif" />
+  <img src="res/inpainting.gif" />
 </p>
 
 # Tutorial
