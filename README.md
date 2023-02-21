@@ -1,5 +1,5 @@
 # Patch-based Image inpainting
-Image restoration by patch-based inpainting. The purpose of this program is to restore image with missing/damaged areas.
+Patch-based Image inpainting is a powerful image restoration program that uses advanced algorithms to effectively restore images with missing or damaged areas. The program is designed to analyze the surrounding areas of the missing/damaged regions and fill them in with similar image patches, resulting in highly accurate restorations that preserve the original image quality and detail.
 
 <p align="center">
   <img src="res/inpainting.gif" />
